@@ -1,4 +1,4 @@
-# CV_project_image_classification
+# Caltech101_Classification
 
 In this project, I implemented two models that classify Caltech101 images.
 
